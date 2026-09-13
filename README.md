@@ -20,8 +20,13 @@
 <img width="1776" height="877" alt="Screenshot 2026-09-12 080147" src="https://github.com/user-attachments/assets/977c1705-5950-4611-bc81-38736dbca93b" />
 
 
+<img width="1232" height="911" alt="Screenshot 2026-09-12 125518" src="https://github.com/user-attachments/assets/4b5c7d7f-ac6e-4d06-a1d6-5ae1db2673c9" />
 
+<img width="1353" height="892" alt="Screenshot 2026-09-12 125539" src="https://github.com/user-attachments/assets/2be10c86-2ce2-4b11-90a2-9e506f01c905" />
 
+<img width="1480" height="828" alt="Screenshot 2026-09-12 155218" src="https://github.com/user-attachments/assets/9de4a22d-1498-4483-9788-073a90497f36" />
+
+<img width="1471" height="870" alt="Screenshot 2026-09-12 155333" src="https://github.com/user-attachments/assets/64b9fa1e-0392-490c-982e-abe5e6adf0d9" />
 
 ### Network Security Projects For Phising Data
 ```
