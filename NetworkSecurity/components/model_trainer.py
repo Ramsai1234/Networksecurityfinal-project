@@ -1,6 +1,5 @@
 import os
 import sys
-
 from NetworkSecurity.exception.exception import NetworkSecurityException 
 from NetworkSecurity.logging.logger import logging
 
@@ -25,6 +24,9 @@ from sklearn.ensemble import (
 )
 
 import mlflow
+
+import dagshub
+dagshub.init(repo_owner='Ramsai1234', repo_name='Networksecurityfinal-project', mlflow=True)
 
 class ModelTrainer:
     def __init__(self,model_trainer_config:ModelTrainerConfig,data_transformation_artifact:DataTransformationArtifact):
